@@ -25,7 +25,7 @@
 
 <div class="page-wrapper">
     
-    @include('navbar.blade.php')
+    @include('layouts.navbar')
 
 
 
