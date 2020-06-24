@@ -1,4 +1,4 @@
-@extends('layouts.app2')
+@extends('layouts.app')
 
 @section('content')
 
@@ -323,7 +323,7 @@
                                 </div><!-- /.content-admin-footer-inner -->
                             </div><!-- /.container-fluid -->
                         </div><!-- /.content-admin-footer  -->
-                        
+
                     </div><!-- /.content-admin-wrapper -->
                 </div><!-- /.content-admin -->
             </div><!-- /.wrapper-admin -->
