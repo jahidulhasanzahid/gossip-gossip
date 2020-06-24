@@ -43,10 +43,10 @@
 <script src="{{asset('assets/libraries/bootstrap-sass/javascripts/bootstrap/collapse.js')}}" type="text/javascript"></script>
 <script src="{{asset('assets/libraries/bootstrap-sass/javascripts/bootstrap/carousel.js')}}" type="text/javascript"></script>
 <script src="{{asset('assets/libraries/bootstrap-sass/javascripts/bootstrap/transition.js')}}" type="text/javascript"></script>
-<script src="{{asset('assets/libraries/bootstrap-sass/javascripts/bootstrap/dropdown'.js')}}" type="text/javascript"></script>
-<script src="{{asset('assets/libraries/bootstrap-sass/javascripts/bootstrap/tooltip'.js')}}" type="text/javascript"></script>
-<script src="{{asset('assets/libraries/bootstrap-sass/javascripts/bootstrap/tab'.js')}}" type="text/javascript"></script>
-<script src="{{asset('assets/libraries/bootstrap-sass/javascripts/bootstrap/alert'.js')}}" type="text/javascript"></script>
+<script src="{{asset('assets/libraries/bootstrap-sass/javascripts/bootstrap/dropdown.js')}}" type="text/javascript"></script>
+<script src="{{asset('assets/libraries/bootstrap-sass/javascripts/bootstrap/tooltip.js')}}" type="text/javascript"></script>
+<script src="{{asset('assets/libraries/bootstrap-sass/javascripts/bootstrap/tab.js')}}" type="text/javascript"></script>
+<script src="{{asset('assets/libraries/bootstrap-sass/javascripts/bootstrap/alert.js')}}" type="text/javascript"></script>
 
 <script src="{{asset('assets/libraries/colorbox/jquery.colorbox-min.js')}}" type="text/javascript"></script>
 
