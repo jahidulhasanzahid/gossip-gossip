@@ -255,8 +255,8 @@
                                                                         </div>
                                                                     </div>
                                                                 </div><!-- /.card-system -->
-                                                            
-                                                                
+
+
                                                                 <div class="card-system">
                                                                     <div class="card-system-inner">
                                                                         <div class="card-system-image" data-background-image="assets/img/tmp/product-3.jpg">
@@ -271,8 +271,8 @@
                                                                         </div>
                                                                     </div>
                                                                 </div><!-- /.card-system -->
-                                                            
-                                                                
+
+
                                                                 <div class="card-system">
                                                                     <div class="card-system-inner">
                                                                         <div class="card-system-image" data-background-image="assets/img/tmp/product-4.jpg">
@@ -287,8 +287,8 @@
                                                                         </div>
                                                                     </div>
                                                                 </div><!-- /.card-system -->
-                                                            
-                                                                
+
+
                                                                 <div class="card-system">
                                                                     <div class="card-system-inner">
                                                                         <div class="card-system-image" data-background-image="assets/img/tmp/product-5.jpg">
@@ -303,7 +303,7 @@
                                                                         </div>
                                                                     </div>
                                                                 </div><!-- /.card-system -->
-                                                            
+
                                                         </div><!-- /.cards-system -->
                                                     </div>
 
@@ -328,6 +328,6 @@
                 </div><!-- /.content-admin -->
             </div><!-- /.wrapper-admin -->
         </div><!-- /.outer-admin -->
-    </div><!-- /.main -->
+</div><!-- /.main -->
 
 @endsection

@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="container">
+<!-- <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
@@ -69,5 +69,32 @@
             </div>
         </div>
     </div>
+</div> -->
+<div class="container">
+    <div class="content">
+        <div class="row">
+            <div class="col-sm-4 col-sm-offset-4">
+                <div class="page-title">
+                    <h1>Login</h1>
+                </div><!-- /.page-title -->
+
+                <form method="post" action="http://preview.byaviators.com/template/superlist/login.html?">
+                    <div class="form-group">
+                        <label for="login-form-email">E-mail</label>
+                        <input type="email" class="form-control" name="email" id="login-form-email">
+                    </div><!-- /.form-group -->
+
+                    <div class="form-group">
+                        <label for="login-form-password">Password</label>
+                        <input type="password" class="form-control" name="password" id="login-form-password">
+                    </div><!-- /.form-group -->
+
+                    <button type="submit" class="btn btn-primary pull-right">Login</button>
+                </form>
+            </div><!-- /.col-sm-4 -->
+        </div><!-- /.row -->
+
+    </div><!-- /.content -->
 </div>
+
 @endsection
