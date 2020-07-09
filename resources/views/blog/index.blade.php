@@ -3,9 +3,6 @@
 @section('content')
 <div class="container">
     <div class="row">
-
-
-
         <div class="col-sm-8 col-lg-9">
             <div class="content">
                 <div class="page-title">

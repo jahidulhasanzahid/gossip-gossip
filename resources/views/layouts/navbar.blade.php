@@ -58,7 +58,7 @@
 
                     <div class="header-bottom">
                         <div class="header-action">
-                            <a href="listing-submit.html" class="header-action-inner" title="Add Listing"
+                            <a href="{{url('blog-create')}}" class="header-action-inner" title="Create Post"
                                 data-toggle="tooltip" data-placement="bottom">
                                 <i class="fa fa-plus"></i>
                             </a><!-- /.header-action-inner -->
@@ -66,25 +66,19 @@
 
                         <ul class="header-nav-primary nav nav-pills collapse navbar-collapse">
                             <li>
-                                <a href="#">Home </a>
+                                <a href="{{url('/')}}">Home</a>
                             </li>
                             <li>
-                                <a href="#">Blog <i class="fa fa-chevron-down"></i></a>
-
-                                <ul class="sub-menu">
-                                    <li><a href="blog-standard-right-sidebar.html">Standard Right Sidebar</a>
-                                    </li>
-
-                                </ul>
+                                <a href="{{url('blog')}}">Blog <i class="fa fa-chevron-down"></i></a>
                             </li>
                             <li>
-                                <a href="#">Contact</a>
+                                <a href="{{url('contact')}}">Contact</a>
                             </li>
                             <li>
                                 <a href="#">Profile <i class="fa fa-chevron-down"></i></a>
 
                                 <ul class="sub-menu">
-                                    <li><a href="admin-dashboard.html">Dashboard</a></li>
+                                    <li><a href="{{url('profile')}}">Dashboard</a></li>
                                     <li><a href="admin-grid.html">Grid System</a></li>
                                     <li><a href="admin-tables.html">Tables</a></li>
                                     <li><a href="admin-forms.html">Forms</a></li>

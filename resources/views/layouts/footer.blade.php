@@ -46,8 +46,8 @@
                 <ul class="nav nav-pills">
                     <li><a href="index.html">Home</a></li>
                     <li><a href="pricing.html">Pricing</a></li>
-                    <li><a href="terms-conditions.html">Terms &amp; Conditions</a></li>
-                    <li><a href="contact-1.html">Contact</a></li>
+                    <li><a href="{{url('terms-and-conditions')}}">Terms &amp; Conditions</a></li>
+                    <li><a href="{{url('contact')}}">Contact</a></li>
                 </ul><!-- /.nav -->
             </div><!-- /.footer-bottom-right -->
         </div><!-- /.container -->
